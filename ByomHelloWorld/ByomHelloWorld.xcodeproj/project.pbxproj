@@ -13,8 +13,10 @@
 		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
 		2892E4100DC94CBA00A64D0F /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2892E40F0DC94CBA00A64D0F /* CoreGraphics.framework */; };
 		28AD73600D9D9599002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD735F0D9D9599002E5188 /* MainWindow.xib */; };
-		28C286E10D94DF7D0034E888 /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */; };
-		28F335F11007B36200424DE2 /* RootViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28F335F01007B36200424DE2 /* RootViewController.xib */; };
+		F4F8CAA712816F5D00505183 /* MercuryDashboardViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F4F8CAA512816F5D00505183 /* MercuryDashboardViewController.m */; };
+		F4F8CAA812816F5D00505183 /* MercuryDashboardViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = F4F8CAA612816F5D00505183 /* MercuryDashboardViewController.xib */; };
+		F4F8CAD81281762800505183 /* la_background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F4F8CAD71281762800505183 /* la_background.jpg */; };
+		F4F8CB43128186D800505183 /* MainWindow-iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = F4F8CB42128186D800505183 /* MainWindow-iPad.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,11 +28,14 @@
 		2892E40F0DC94CBA00A64D0F /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		28A0AAE50D9B0CCF005BE974 /* ByomHelloWorld_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ByomHelloWorld_Prefix.pch; sourceTree = "<group>"; };
 		28AD735F0D9D9599002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
-		28C286DF0D94DF7D0034E888 /* RootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
-		28C286E00D94DF7D0034E888 /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
-		28F335F01007B36200424DE2 /* RootViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = RootViewController.xib; sourceTree = "<group>"; };
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* ByomHelloWorld-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "ByomHelloWorld-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		F4F8CAA412816F5D00505183 /* MercuryDashboardViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MercuryDashboardViewController.h; sourceTree = "<group>"; };
+		F4F8CAA512816F5D00505183 /* MercuryDashboardViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MercuryDashboardViewController.m; sourceTree = "<group>"; };
+		F4F8CAA612816F5D00505183 /* MercuryDashboardViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = MercuryDashboardViewController.xib; path = Classes/MercuryDashboardViewController.xib; sourceTree = "<group>"; };
+		F4F8CAD71281762800505183 /* la_background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = la_background.jpg; sourceTree = "<group>"; };
+		F4F8CB3C128186AB00505183 /* MainiPad-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MainiPad-Info.plist"; sourceTree = "<group>"; };
+		F4F8CB42128186D800505183 /* MainWindow-iPad.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = "MainWindow-iPad.xib"; path = "Resources-iPad/MainWindow-iPad.xib"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -50,10 +55,10 @@
 		080E96DDFE201D6D7F000001 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				28C286DF0D94DF7D0034E888 /* RootViewController.h */,
-				28C286E00D94DF7D0034E888 /* RootViewController.m */,
 				1D3623240D0F684500981E51 /* ByomHelloWorldAppDelegate.h */,
 				1D3623250D0F684500981E51 /* ByomHelloWorldAppDelegate.m */,
+				F4F8CAA412816F5D00505183 /* MercuryDashboardViewController.h */,
+				F4F8CAA512816F5D00505183 /* MercuryDashboardViewController.m */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -74,6 +79,7 @@
 				29B97317FDCFA39411CA2CEA /* Resources */,
 				29B97323FDCFA39411CA2CEA /* Frameworks */,
 				19C28FACFE9D520D11CA2CBB /* Products */,
+				F4F8CB3C128186AB00505183 /* MainiPad-Info.plist */,
 			);
 			name = CustomTemplate;
 			sourceTree = "<group>";
@@ -90,9 +96,11 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				28F335F01007B36200424DE2 /* RootViewController.xib */,
+				F4F8CAD71281762800505183 /* la_background.jpg */,
+				F4F8CAA612816F5D00505183 /* MercuryDashboardViewController.xib */,
 				28AD735F0D9D9599002E5188 /* MainWindow.xib */,
 				8D1107310486CEB800E47090 /* ByomHelloWorld-Info.plist */,
+				F4F8CB42128186D800505183 /* MainWindow-iPad.xib */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -157,7 +165,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				28AD73600D9D9599002E5188 /* MainWindow.xib in Resources */,
-				28F335F11007B36200424DE2 /* RootViewController.xib in Resources */,
+				F4F8CAA812816F5D00505183 /* MercuryDashboardViewController.xib in Resources */,
+				F4F8CAD81281762800505183 /* la_background.jpg in Resources */,
+				F4F8CB43128186D800505183 /* MainWindow-iPad.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -170,7 +180,7 @@
 			files = (
 				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
 				1D3623260D0F684500981E51 /* ByomHelloWorldAppDelegate.m in Sources */,
-				28C286E10D94DF7D0034E888 /* RootViewController.m in Sources */,
+				F4F8CAA712816F5D00505183 /* MercuryDashboardViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -181,13 +191,17 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_UNIVERSAL_IPHONE_OS)";
 				COPY_PHASE_STRIP = NO;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = ByomHelloWorld_Prefix.pch;
 				INFOPLIST_FILE = "ByomHelloWorld-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 3.1.3;
 				PRODUCT_NAME = ByomHelloWorld;
+				SDKROOT = iphoneos3.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -195,11 +209,15 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_UNIVERSAL_IPHONE_OS)";
 				COPY_PHASE_STRIP = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = ByomHelloWorld_Prefix.pch;
 				INFOPLIST_FILE = "ByomHelloWorld-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 3.1.3;
 				PRODUCT_NAME = ByomHelloWorld;
+				SDKROOT = iphoneos3.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;

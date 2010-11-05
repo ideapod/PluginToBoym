@@ -7,13 +7,13 @@
 //
 
 #import "ByomHelloWorldAppDelegate.h"
-#import "RootViewController.h"
+
 
 
 @implementation ByomHelloWorldAppDelegate
 
 @synthesize window;
-@synthesize navigationController;
+@synthesize dashboard;
 
 
 #pragma mark -
@@ -22,7 +22,7 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {    
     // Override point for customization after app launch    
 	
-	[window addSubview:[navigationController view]];
+	[window addSubview:[dashboard view]];
     [window makeKeyAndVisible];
 	return YES;
 }
@@ -37,7 +37,7 @@
 #pragma mark Memory management
 
 - (void)dealloc {
-	[navigationController release];
+	[dashboard release];
 	[window release];
 	[super dealloc];
 }
