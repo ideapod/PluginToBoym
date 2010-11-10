@@ -1,0 +1,362 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* ByomHelloWorldAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1083, 522}}";
+			sepNavSelRange = "{511, 1}";
+			sepNavVisRange = "{0, 518}";
+			sepNavWindowFrame = "{{15, 200}, {1142, 673}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* ByomHelloWorldAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1083, 624}}";
+			sepNavSelRange = "{525, 1}";
+			sepNavVisRange = "{0, 830}";
+			sepNavWindowFrame = "{{15, 200}, {1142, 673}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* ByomHelloWorld */ = {
+		activeExec = 0;
+		executables = (
+			F4F8CA6C12816B8600505183 /* ByomHelloWorld */,
+		);
+	};
+	28A0AAE50D9B0CCF005BE974 /* ByomHelloWorld_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1083, 545}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 334}";
+			sepNavWindowFrame = "{{107, 116}, {1142, 673}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = F4F8CA6C12816B8600505183 /* ByomHelloWorld */;
+		activeSDKPreference = iphonesimulator3.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ByomHelloWorld */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* ByomHelloWorld */,
+		);
+		breakpoints = (
+			F488981F12854B35001A8742 /* ByomHelloWorldAppDelegate.m:27 */,
+		);
+		codeSenseManager = F4F8CA8B12816B9B00505183 /* Code sense */;
+		executables = (
+			F4F8CA6C12816B8600505183 /* ByomHelloWorld */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					906,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					866,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 310725410;
+			PBXWorkspaceStateSaveDate = 310725410;
+		};
+		perUserProjectItems = {
+			F488981212854B27001A8742 /* PBXTextBookmark */ = F488981212854B27001A8742 /* PBXTextBookmark */;
+			F488981E12854B34001A8742 /* PBXTextBookmark */ = F488981E12854B34001A8742 /* PBXTextBookmark */;
+			F488982112854B3F001A8742 /* PBXBookmark */ = F488982112854B3F001A8742 /* PBXBookmark */;
+			F488982412854B4E001A8742 /* PBXTextBookmark */ = F488982412854B4E001A8742 /* PBXTextBookmark */;
+			F488982512854B4E001A8742 /* PBXTextBookmark */ = F488982512854B4E001A8742 /* PBXTextBookmark */;
+			F488982812854B4E001A8742 /* PBXTextBookmark */ = F488982812854B4E001A8742 /* PBXTextBookmark */;
+			F488982F12854B7B001A8742 /* PBXTextBookmark */ = F488982F12854B7B001A8742 /* PBXTextBookmark */;
+			F488983012854B7B001A8742 /* PBXTextBookmark */ = F488983012854B7B001A8742 /* PBXTextBookmark */;
+			F4AB8580128521F100490B10 = F4AB8580128521F100490B10 /* PBXTextBookmark */;
+			F4AB859A12854B0500490B10 = F4AB859A12854B0500490B10 /* PBXTextBookmark */;
+			F4F8CBB4128520D500505183 = F4F8CBB4128520D500505183 /* PlistBookmark */;
+			F4F8CBB5128520D500505183 = F4F8CBB5128520D500505183 /* PBXTextBookmark */;
+			F4F8CBB6128520D500505183 = F4F8CBB6128520D500505183 /* PBXTextBookmark */;
+			F4F8CBB7128520D500505183 = F4F8CBB7128520D500505183 /* PBXTextBookmark */;
+		};
+		sourceControlManager = F4F8CA8A12816B9B00505183 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107310486CEB800E47090 /* ByomHelloWorld-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{84, 137}, {1142, 673}}";
+		};
+	};
+	F488981212854B27001A8742 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ByomHelloWorldAppDelegate.m */;
+		name = "ByomHelloWorldAppDelegate.m: 26";
+		rLen = 0;
+		rLoc = 556;
+		rType = 0;
+		vrLen = 840;
+		vrLoc = 0;
+	};
+	F488981E12854B34001A8742 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ByomHelloWorldAppDelegate.m */;
+		rLen = 1;
+		rLoc = 24;
+		rType = 1;
+	};
+	F488981F12854B35001A8742 /* ByomHelloWorldAppDelegate.m:27 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1D3623250D0F684500981E51 /* ByomHelloWorldAppDelegate.m */;
+		functionName = "-application:didFinishLaunchingWithOptions:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 27;
+		location = ByomHelloWorld;
+		modificationTime = 310725524.282831;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	F488982112854B3F001A8742 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ByomHelloWorldAppDelegate.m */;
+	};
+	F488982412854B4E001A8742 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ByomHelloWorldAppDelegate.m */;
+		name = "ByomHelloWorldAppDelegate.m: 26";
+		rLen = 0;
+		rLoc = 556;
+		rType = 0;
+		vrLen = 840;
+		vrLoc = 0;
+	};
+	F488982512854B4E001A8742 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ByomHelloWorldAppDelegate.m */;
+		name = "ByomHelloWorldAppDelegate.m: 28";
+		rLen = 0;
+		rLoc = 601;
+		rType = 0;
+		vrLen = 840;
+		vrLoc = 0;
+	};
+	F488982812854B4E001A8742 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ByomHelloWorldAppDelegate.m */;
+		name = "ByomHelloWorldAppDelegate.m: 26";
+		rLen = 0;
+		rLoc = 556;
+		rType = 0;
+		vrLen = 812;
+		vrLoc = 0;
+	};
+	F488982F12854B7B001A8742 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ByomHelloWorldAppDelegate.m */;
+		name = "ByomHelloWorldAppDelegate.m: 25";
+		rLen = 39;
+		rLoc = 517;
+		rType = 0;
+		vrLen = 838;
+		vrLoc = 0;
+	};
+	F488983012854B7B001A8742 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ByomHelloWorldAppDelegate.m */;
+		name = "ByomHelloWorldAppDelegate.m: 25";
+		rLen = 1;
+		rLoc = 525;
+		rType = 0;
+		vrLen = 830;
+		vrLoc = 0;
+	};
+	F4AB8580128521F100490B10 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ByomHelloWorldAppDelegate.m */;
+		name = "ByomHelloWorldAppDelegate.m: 18";
+		rLen = 0;
+		rLoc = 287;
+		rType = 0;
+		vrLen = 836;
+		vrLoc = 0;
+	};
+	F4AB859A12854B0500490B10 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ByomHelloWorldAppDelegate.m */;
+		name = "ByomHelloWorldAppDelegate.m: 26";
+		rLen = 0;
+		rLoc = 556;
+		rType = 0;
+		vrLen = 840;
+		vrLoc = 0;
+	};
+	F4F8CA6C12816B8600505183 /* ByomHelloWorld */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ByomHelloWorld;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	F4F8CA8A12816B9B00505183 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	F4F8CA8B12816B9B00505183 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	F4F8CAA412816F5D00505183 /* MercuryDashboardViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1084, 659}}";
+			sepNavSelRange = "{255, 0}";
+			sepNavVisRange = "{0, 379}";
+			sepNavWindowFrame = "{{38, 179}, {1142, 673}}";
+		};
+	};
+	F4F8CAA512816F5D00505183 /* MercuryDashboardViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 936}}";
+			sepNavSelRange = "{1741, 0}";
+			sepNavVisRange = "{647, 1105}";
+			sepNavWindowFrame = "{{130, 95}, {1142, 673}}";
+		};
+	};
+	F4F8CAD71281762800505183 /* la_background.jpg */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 200}, {1142, 673}}";
+		};
+	};
+	F4F8CBB4128520D500505183 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* ByomHelloWorld-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/Simon/Development/PluginToBoym/ByomHelloWorld/ByomHelloWorld-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	F4F8CBB5128520D500505183 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* ByomHelloWorldAppDelegate.h */;
+		name = "ByomHelloWorldAppDelegate.h: 21";
+		rLen = 1;
+		rLoc = 511;
+		rType = 0;
+		vrLen = 518;
+		vrLoc = 0;
+	};
+	F4F8CBB6128520D500505183 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F4F8CAA412816F5D00505183 /* MercuryDashboardViewController.h */;
+		name = "MercuryDashboardViewController.h: 13";
+		rLen = 0;
+		rLoc = 255;
+		rType = 0;
+		vrLen = 379;
+		vrLoc = 0;
+	};
+	F4F8CBB7128520D500505183 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F4F8CAA512816F5D00505183 /* MercuryDashboardViewController.m */;
+		name = "MercuryDashboardViewController.m: 69";
+		rLen = 0;
+		rLoc = 1741;
+		rType = 0;
+		vrLen = 1105;
+		vrLoc = 647;
+	};
+}
