@@ -1,0 +1,5 @@
+READ Nov 08 23:11:47.459 [kCFStreamSocketSecurityLevelNone]  -- host:mail.optusnet.com.au -- port:25 -- socket:0x116785360 -- thread:0x1162adcb0
+454 4.7.0 Please try again later
+
+8/11/10 11:23:41 PM	[0x0-0xef0ef].com.apple.mail[4612]	READ Nov 08 23:23:41.598 [kCFStreamSocketSecurityLevelNone]  -- host:mail.optusnet.com.au -- port:25 -- socket:0x1170d9250 -- thread:0x114cdab40
+8/11/10 11:23:41 PM	[0x0-0xef0ef].com.apple.mail[4612]	451 4.3.2 Please try again later
